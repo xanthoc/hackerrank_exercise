@@ -1,0 +1,5 @@
+ConsoleApplication1/
+DEBUG/
+*.vcxproj
+*.vcxproj.*
+.vs/
